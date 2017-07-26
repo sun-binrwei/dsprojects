@@ -5,6 +5,4 @@
 .RData
 *.docx
 *.doc
-data_raw
-data*
 .ipynb_checkpoints
